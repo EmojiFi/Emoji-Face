@@ -7,7 +7,7 @@
 3. Diala Abedlqader 
 4. Mohammad  Fadi Hboubati
 
-*Discription about  this repo *
+*Discription about  this repo*
 
-we will classify human facial expressions to filter and map corresponding emojis or avatars.
+We will classify human facial expressions to filter and map corresponding emojis or avatars.
 
