@@ -1,6 +1,6 @@
-# Emoji-Face
+# Emoji-Face 
 
-### Team Member 
+### *Team Member*
 
 1. **Hadeel Hussam**
 2. **Hamza Rashed**
